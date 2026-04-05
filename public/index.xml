@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>R2R</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on R2R</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Index of Key Entities and Concepts</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/</guid>
+    <description>The following index provides a structured overview of significant entities and concepts related to security management and vulnerability handling. Each entry includes the name and a brief description.</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>Project Maintainers</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/project-maintainers</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/project-maintainers</guid>
+    <description>Overview Project maintainers are key individuals responsible for overseeing the R2R project. Their primary duties involve ensuring proper management and addressing security concerns within the project.</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>unnamed</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/design/unnamed</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/design/unnamed</guid>
+    <description>反反复复 .</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>Vulnerability Report</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/Vulnerability-Report</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/Vulnerability-Report</guid>
+    <description>The Vulnerability Handling Process is a systematic approach that organizations, like R2R, implement to identify, assess, and mitigate vulnerabilities effectively ...</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>Security Researchers</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/Security-Researchers</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/Security-Researchers</guid>
+    <description>Overview Security researchers are pivotal in the realm of cybersecurity, focusing on identifying and addressing vulnerabilities in software and systems ...</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>Keep Confidential Label</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/Keep-Confidential-Label</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/Keep-Confidential-Label</guid>
+    <description>Overview The Keep Confidential Label is a designation utilized in GitHub issues to indicate that the issue contains sensitive information that should not be disclosed to the public ...</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>New Version of R2R</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/New-Version</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/New-Version</guid>
+    <description>The New Version of R2R has been developed to enhance security by addressing vulnerabilities identified in previous iterations. Here’s an overview of what this release entails: Key Features of the New Version Enhanced Security: This version is specifically designed to resolve issues highlighted in the Vulnerability Report.</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>Issue Template Overview</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/Issue-Template</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/Issue-Template</guid>
+    <description>An issue template serves as a structured approach for developers to communicate specific concerns or requests within a collaborative platform, particularly in environments like ...</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>2026-04-05-first-post</title>
+    <link>https://quartz.jzhao.xyz/quartz-content/2026-04-05-first-post</link>
+    <guid>https://quartz.jzhao.xyz/quartz-content/2026-04-05-first-post</guid>
+    <description>完整最简拓扑图 Obsidian（写作） ⬇ Quartz（转静态网页） ⬇ GitHub（存代码 + 备份） ⬇ GitHub Pages（基础发布） ⬇ Cloudflare（加速 + 优化 + 自定义域名）.</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item><item>
+    <title>首页</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>欢迎 👋 笔记整理中… .</description>
+    <pubDate>Sun, 05 Apr 2026 16:43:24 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
