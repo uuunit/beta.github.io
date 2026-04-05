@@ -1,6 +1,5 @@
 node_modules/
 public/
 .quartz/
-package-lock.json
 .DS_Store
 *.log
