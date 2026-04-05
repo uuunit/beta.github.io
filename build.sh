@@ -2,4 +2,4 @@
 set -e
 cd "$(dirname "$0")"
 npm install
-npx quartz build -d beta --output .
+npx quartz build -d .
